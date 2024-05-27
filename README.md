@@ -9,5 +9,5 @@ Contact 📫
 You can find me at Antnhe.Debebe@aait.edu.et. Feel free to connect—I’d love to chat!
 Pronouns 😄
 You can call me Antx. 😄
-Fun Fact 
+Fun Fact  😄
 Did you know that most programming languages start with a “Hello, World!” program? It’s a tradition that dates back to the 1978 book “The C Programming Language.” Simple yet iconic!
