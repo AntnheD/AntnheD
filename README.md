@@ -1,7 +1,7 @@
 
 
 
-    <h1 style="text-align: center;">👋 Hey there!</h1>
+    <h1>👋 Hey there!</h1>
     <p style="font-size: 1.2em;">I’m <strong>AntnheD</strong>, a Software Engineering student at Addis Ababa University (AAIT). My passion lies in technology and coding—I’m always eager to learn and improve my skills.</p>
     
     <h2 style="color: #0056b3;">Interests 👀</h2>
