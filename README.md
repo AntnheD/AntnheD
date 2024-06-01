@@ -1,11 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AntnheD GitHub README</title>
-</head>
-<body style="font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px;">
+
+
 
     <h1 style="text-align: center;">👋 Hey there!</h1>
     <p style="font-size: 1.2em;">I’m <strong>AntnheD</strong>, a Software Engineering student at Addis Ababa University (AAIT). My passion lies in technology and coding—I’m always eager to learn and improve my skills.</p>
@@ -28,5 +22,4 @@
     <h2 style="color: #0056b3;">Fun Fact 😄</h2>
     <p style="font-size: 1.1em;">Did you know that most programming languages start with a “Hello, World!” program? It’s a tradition that dates back to the 1978 book “The C Programming Language.” Simple yet iconic!</p>
 
-</body>
-</html>
+
