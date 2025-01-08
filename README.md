@@ -7,5 +7,5 @@
 
 <div style="position: relative; z-index: 1; color: white; text-align: center; top: 50%; transform: translateY(-50%);">
     <h1>hey ther! </h1>
-    <p>am antenhe...</p>
+    <p>am antenhe...Developer</p>
 </div>
