@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AntnheD](https://github.com/AntnheD)
 
-- 💬 Ask me about **python,opencv,**
+- 💬 Ask me about **python,opencv,React,Express,Next,**
 
-- 📫 How to reach me **antnhe.debebe@aait.edu.et**
+- 📫 How to reach me **antnhe.debebe@aait.edu.et or antnhedebebe19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
