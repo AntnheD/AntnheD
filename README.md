@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antnhed" alt="antnhed" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/AntnheD](https://github.com/AntnheD)
+- 👨‍💻  my projects are available at [https://github.com/AntnheD](https://github.com/AntnheD)
 
 - 💬 Ask me about **python,opencv,React,Express,Next,**
 
