@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antnhed" alt="antnhed" /></a> </p>
 
 - 👨‍💻  my projects are available at [https://github.com/AntnheD](https://github.com/AntnheD)
-
+- my sight  https://antnhe.pages.dev/ 
 - 📫 How to reach me **antnhe.debebe@aait.edu.et or antnhedebebe19@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
