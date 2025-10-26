@@ -1,0 +1,24 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight UTC
+  workflow_dispatch:      # Allow manual trigger from GitHub Actions tab
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@v3
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: AntnheD                  # <-- Replace with your GitHub username
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Africa/Addis_Ababa
+          plugin_languages: yes
+          plugin_languages_ignored: html, css
+          plugin_languages_details: percentage
+          plugin_followup: yes
+          plugin_followup_sections: repositories
