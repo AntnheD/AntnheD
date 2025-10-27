@@ -1,7 +1,7 @@
 name: Metrics
 on:
-  schedule: [{cron: "0 * * * *"}]  # runs every hour
-  workflow_dispatch:               # allows manual runs
+  schedule: [{cron: "0 * * * *"}]  # runs every hour.
+  workflow_dispatch:               # allows manual runs.
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
