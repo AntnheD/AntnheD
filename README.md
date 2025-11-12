@@ -15,7 +15,6 @@
 
   <!-- Social / Contact -->
   <p>
-    <a href="https://github.com/AntnheD"><img src="https://img.shields.io/badge/GitHub-0D1117?logo=github&logoColor=white" height="28"></a>
     <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-005FF8?logo=gmail&logoColor=white" height="28"></a>
     <a href="https://linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" height="28"></a>
   </p>
