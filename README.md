@@ -26,8 +26,8 @@
 <!-- Capabilities Overview -->
 <h2 align="center">Core Competencies</h2>
 
-<p align="center">
-  <strong>Frontend:</strong> HTML · CSS · JavaScript · TypeScript · React · Next.js<br>
+<p align="center" >
+  <strong>Frontend:</strong> HTML · CSS, · JavaScript · TypeScript · React · Next.js<br>
   <strong>Backend:</strong> Node.js · Express · Python · FastAPI<br>
   <strong>Data & Infra:</strong> PostgreSQL · MongoDB · Supabase · Linux · Docker<br>
   <strong>AI & ML:</strong> TensorFlow · OpenCV · Neural Network Implementation Practices
