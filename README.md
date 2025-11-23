@@ -4,7 +4,7 @@
   <h1 style="border-bottom:none; margin-bottom:0;">
     Antnhe Debebe
   </h1>
-  <h3 style="font-weight:400; margin-top:4px;">
+  <h3 style="font-weight:450; margin-top:4px;">
     Software Engineer · AAU / AAIT
   </h3>
 
