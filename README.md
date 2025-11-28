@@ -86,28 +86,8 @@
 
 <hr style="margin: 40px 0;">
 
-<!-- 3D Contribution Calendar with fallback -->
-<h2 align="center">3D Contribution Calendar</h2>
-<p align="center">
-  <!-- Primary: public 3D SVG (community asset). If it fails, use the ghchart fallback below. -->
-  <img src="https://raw.githubusercontent.com/ashutosh00710/github-readme-3d-contrib/master/docs/assets/profile.svg" width="85%" alt="3D Contribution Calendar (community asset)"/>
-  <br>
-  <!-- Fallback: simple contribution chart (reliable) -->
-  <em>If the 3D SVG does not load for your profile, the fallback contribution chart is below:</em>
-  <br>
-  <img src="https://ghchart.rshah.org/AntnheD" width="85%" alt="Contribution Chart (fallback)"/>
-</p>
 
-<hr style="margin: 40px 0;">
 
-<!-- Contribution Activity (Snake) with fallback -->
-<h2 align="center">Contribution Activity</h2>
-<p align="center">
-  <!-- Preferred snake graph (place this file in your repo at path /github-contribution-grid-snake.svg to guarantee rendering) -->
-  <img src="https://github.com/AntnheD/AntnheD/raw/main/github-contribution-grid-snake.svg" width="85%" alt="Contribution Snake (repo asset)"/>
-  <br>
-  <em>If the snake image is missing, use the standard contribution chart above or add the snake SVG to your repo at the path shown.</em>
-</p>
 
 <hr style="margin: 40px 0;">
 
