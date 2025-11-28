@@ -96,12 +96,12 @@
 
 <div align="center">
   <!-- Replace YOUR_PROJECT_1 and YOUR_PROJECT_2 with actual repo names -->
-  <a href="https://github.com/AntnheD/YOUR_PROJECT_1" title="Open YOUR_PROJECT_1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntnheD&repo=YOUR_PROJECT_1&theme=transparent" alt="Pinned Repo 1"/>
+  <a href="https://github.com/AntnheD/ cafe-system " title="Open YOUR_PROJECT_1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntnheD&repo=cafe-system&theme=transparent" alt="Pinned Repo 1"/>
   </a>
 
-  <a href="https://github.com/AntnheD/YOUR_PROJECT_2" title="Open YOUR_PROJECT_2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntnheD&repo=YOUR_PROJECT_2&theme=transparent" alt="Pinned Repo 2"/>
+  <a href="https://github.com/AntnheD/crop_yeld_pridiction" title="Open YOUR_PROJECT_2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AntnheD&repo=crop_yeld_pridiction_2&theme=transparent" alt="Pinned Repo 2"/>
   </a>
 
   <p style="opacity:0.7; margin-top:8px;">
