@@ -14,49 +14,24 @@
 
   <!-- 3D Contribution Graph -->
   <a href="https://github.com/AntnheD">
-    <img src="https://raw.githubusercontent.com/AntnheD/AntnheD/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+    <img src="https://raw.githubusercontent.com/AntnheD/AntnheD/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
   </a>
 
   <br/>
 
-  <!-- Metrics & Stats -->
-  <table align="center" border="0" cellpadding="0" cellspacing="0">
-    <tr>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=AntnheD&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" alt="AntnheD's Stats" width="100%" />
-      </td>
-      <td width="50%" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntnheD&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8" alt="Top Languages" width="100%" />
-      </td>
-    </tr>
-  </table>
+  <!-- Advanced Metrics -->
+  <img src="https://raw.githubusercontent.com/AntnheD/AntnheD/main/github-metrics.svg" alt="Advanced Metrics" width="100%" />
 
 </div>
 
 ---
 
-### <img src="https://media.giphy.com/media/iY8CRBdQXODJSC47qY/giphy.gif" width="30">  **Mainframe Access: GRANTED**
+### 👨‍💻 **About Me**
 
-```javascript
-const antnhe = {
-    code: ["Javascript", "Python", "Typescript", "Go", "Rust"],
-    askMeAbout: ["Web Dev", "Tech", "App Dev", "Cloud Architecture"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js", "Three.js"],
-            css: ["Tailwind", "Sass", "Styled Components"]
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Django", "FastAPI", "Flask"]
-        },
-        devOps: ["Docker", "AWS", "GCP", "CI/CD", "Kubernetes"],
-        databases: ["PostgreSQL", "MongoDB", "Redis", "Supabase"]
-    },
-    currentFocus: "Building scalable AI-driven ecosystems",
-    funFact: "I debug with telepathy (and console.log)"
-};
-```
+- 🔭 I’m currently working on **Building scalable AI-driven ecosystems**
+- 🧠 Core areas: **Web Dev, AI Systems, Cloud Native, Automation**
+- 💬 Ask me about **React, Python, Docker, and System Architecture**
+- ⚡ Fun fact: **I debug with telepathy (and console.log)**
 
 ---
 
@@ -81,8 +56,6 @@ const antnhe = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AntnheD&theme=radical&hide_border=true&background=00000000" alt="Streak Stats" />
   <br><br>
-  <!-- 3D Profile Image Placeholder - Will appear once workflow runs -->
-  <img src="https://raw.githubusercontent.com/AntnheD/AntnheD/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </div>
 
 ---
