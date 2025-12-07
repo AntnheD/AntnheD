@@ -26,7 +26,6 @@ jobs:
           # Aesthetic
           config_display: large
           config_padding: 0, 5%
-          theme: night
           
           # Calendar
           plugin_isocalendar: yes
