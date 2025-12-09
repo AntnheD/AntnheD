@@ -12,12 +12,7 @@
      </a>
   </p>
 
-  <!-- 3D Contribution Graph -->
-  <a href="https://github.com/AntnheD">
-    <img src="https://raw.githubusercontent.com/AntnheD/AntnheD/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
-  </a>
-
-  <br/>
+ 
 
   <!-- Advanced Metrics -->
   <img src="https://raw.githubusercontent.com/AntnheD/AntnheD/main/github-metrics.svg" alt="Advanced Metrics" width="100%" />
